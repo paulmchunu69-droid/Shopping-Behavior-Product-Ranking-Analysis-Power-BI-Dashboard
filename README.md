@@ -26,6 +26,8 @@ What percentage of customers use discounts?
 
 ## Dashboard 
 
+<img width="766" height="432" alt="17632956427187768740388776727352" src="https://github.com/user-attachments/assets/fff97e43-29a1-434e-9ea6-725764fa6ebf" />
+
 ## Process
 
 Imported dataset into Power BI
