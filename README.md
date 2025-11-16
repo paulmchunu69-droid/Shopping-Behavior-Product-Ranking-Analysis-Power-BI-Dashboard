@@ -59,3 +59,14 @@ Review ratings show most products fall between 3 and 5 stars, indicating fairly 
 ## Final Conclusion
 
 The analysis shows that clothing dominates sales volume, with most customers shopping seasonally and preferring digital payment methods. Discount use is common but not universal. Businesses can leverage these insights to improve stock planning, seasonal promotions, and customer targeting strategies.
+
+## Tools Used
+
+Power BI (DAX, Power Query, Data Modeling)
+
+Data Visualization & Consumer Analytics
+
+CSV dataset (customer shopping data)
+
+## File 
+https://github.com/paulmchunu69-droid/Shopping-Behavior-Product-Ranking-Analysis-Power-BI-Dashboard/blob/main/Dashboard(P1).pbit
